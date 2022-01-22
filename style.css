@@ -28,3 +28,7 @@ body{
 .card-rounded{
     border-radius: 20px;
 }
+.shose__name{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+}
