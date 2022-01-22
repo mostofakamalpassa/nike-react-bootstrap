@@ -14,3 +14,13 @@ body{
 .text-color__secondary{
     color:#363958;
 }
+.button{
+    background-image: linear-gradient(#3D4FF3, #3543BC);
+}
+.header-area{
+    background: #FFF9F4;
+}
+.title_hero{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+}
