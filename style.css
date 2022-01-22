@@ -1,0 +1,16 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight:  normal;
+}
+
+.logo-text{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    font-weight: 800;
+}
+.text-color__primary{
+    color:#FA804C;
+}
+.text-color__secondary{
+    color:#363958;
+}
